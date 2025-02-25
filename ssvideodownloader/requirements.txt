@@ -16,6 +16,7 @@ branca==0.8.0
 Brlapi==0.8.3
 cement==2.10.14
 certifi==2024.8.30
+cffi==1.17.1
 chardet==4.0.0
 charset-normalizer==3.4.0
 click==8.0.3
@@ -70,6 +71,7 @@ protobuf==3.12.4
 ptyprocess==0.7.0
 pyasn1==0.4.8
 pycairo==1.20.1
+pycparser==2.22
 pycups==2.0.1
 Pygments==2.11.2
 PyGObject==3.42.1
